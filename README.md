@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working onI’m a second-year Computer Science student at Delhi Technological University, passionate about building things for the web. I’m currently learning the MERN stack (MongoDB, Express, React, Node.js) and strengthening my problem-solving skills through DSA in C++. I enjoy turning ideas into working projects and learning in public. Currently looking for opportunities to collaborate, contribute to open source, and land internships.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a second-year Computer Science student at Delhi Technological University, passionate about building things for the web. I’m currently learning the MERN stack (MongoDB, Express, React, Node.js) and strengthening my problem-solving skills through DSA in C++. I enjoy turning ideas into working projects and learning in public. Currently looking for opportunities to collaborate, contribute to open source, and land internships.<br>🔨 Building projects and learning in public.<br>🌱 I’m currently learning MERN Stack.<br>
 
 
 ## 🌐 Socials:
